@@ -24,8 +24,8 @@ Estudo Engenharia de Software na UGB, em Volta Redonda (RJ), e estagio no time d
 
 | Back-end | Front-end | Ferramentas |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=cs,dotnet" height="40" alt="C# e .NET" /> | <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css" height="40" alt="React, TypeScript, JavaScript, Tailwind, HTML, CSS" /> | <img src="https://skillicons.dev/icons?i=git,github,vite,firebase,vscode" height="40" alt="Git, GitHub, Vite, Firebase, VS Code" /> |
-| ASP.NET Core · EF Core · SQL | React · TypeScript · Tailwind | Git · Vite · Firebase |
+| <img src="https://skillicons.dev/icons?i=cs,dotnet" height="40" alt="C# e .NET" /> <img src="sqlserver.svg" height="40" alt="SQL Server" /> | <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css" height="40" alt="React, TypeScript, JavaScript, Tailwind, HTML, CSS" /> | <img src="https://skillicons.dev/icons?i=git,github,vite,firebase,vscode,visualstudio" height="40" alt="Git, GitHub, Vite, Firebase, VS Code, Visual Studio" /> |
+| ASP.NET Core · EF Core · SQL Server | React · TypeScript · Tailwind | Git · Vite · Firebase · Visual Studio |
 
 ### Projetos em destaque
 
