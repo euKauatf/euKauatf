@@ -1,24 +1,43 @@
-## Olá! Eu sou o Kauã
+<h1 align="center">Oi, eu sou o Kauã </h1>
 
-Estudante de Engenharia de Software na UGB (Volta Redonda, RJ) e estagiário de desenvolvimento com C#, .NET e React.
-Comecei pelo front-end com React e TypeScript, mas hoje trabalho dos dois lados!
+<p align="center">
+  <b>Dev full stack em formação</b> · C# e .NET no back-end, React e TypeScript no front-end
+</p>
 
-**Agora:** estagiando com ASP.NET e Entity Framework Core, e estudando arquitetura de APIs.
+<p align="center">
+  <a href="https://kauaportfs.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-kauaportfs.vercel.app-4b2e22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/eukauatf"><img src="https://img.shields.io/badge/LinkedIn-eukauatf-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+</p>
+
+---
+
+### Sobre mim
+
+Estudo Engenharia de Software na UGB, em Volta Redonda (RJ), e estagio no time de desenvolvimento da universidade. Comecei pelo front-end no técnico do IFRJ e hoje trabalho dos dois lados: APIs em C# no back e interfaces em React no front.
+
+- Estagiando na UGB com **C#, ASP.NET Core e Entity Framework Core**, e cuidando da acessibilidade dos temas do ambiente virtual (Moodle)
+- Estudando arquitetura de APIs REST
+- Aberto a freelas: sites institucionais, landing pages e sistemas sob medida para pequenos negócios
+- Medalhista da OBMEP: gosto de problema de lógica
 
 ### Stack
-**Back-end:** C# · .NET · ASP.NET Core · Entity Framework Core · SQL
-**Front-end:** React · TypeScript · JavaScript · Tailwind CSS
-**Ferramentas:** Git · Vite · Firebase
+
+| Back-end | Front-end | Ferramentas |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=cs,dotnet" height="40" alt="C# e .NET" /> | <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css" height="40" alt="React, TypeScript, JavaScript, Tailwind, HTML, CSS" /> | <img src="https://skillicons.dev/icons?i=git,github,vite,firebase,vscode" height="40" alt="Git, GitHub, Vite, Firebase, VS Code" /> |
+| ASP.NET Core · EF Core · SQL | React · TypeScript · Tailwind | Git · Vite · Firebase |
 
 ### Projetos em destaque
-| Projeto | O que é | Stack |
-|---|---|---|
-| [Otaviano Transportes](https://github.com/Fhelps32/Otaviano-Transportes) | Site de cliente real, com cotação e rastreio | React, TS |
-| [SIGME](https://github.com/euKauatf/tccSIGME) | TCC: gestão de eventos com QR Code | React, TS |
-| [Kauaffè](https://github.com/euKauatf/Kauaffe) | Autoatendimento para cafeteria | React, TS, Firebase |
-| [PlanejaAI](https://github.com/euKauatf/PlanejaAI) | Planejador financeiro com IA | React, TS, IA |
 
-### Contato
-[Portfólio](https://kauaportfs.vercel.app) · [LinkedIn](https://www.linkedin.com/in/eukauatf)
+| | Projeto | O que é | Stack | Links |
+|:---:|---|---|---|---|
+| 🚚 | **Otaviano Transportes** | Site de uma transportadora (cliente real): pedidos de cotação por e-mail e rastreio de cargas | React · TypeScript | [Site](https://otaviano-transportes.onrender.com) · [Código](https://github.com/Fhelps32/Otaviano-Transportes) |
+| 🎟️ | **SIGME** | TCC do IFRJ, feito em trio: inscrição em eventos, sorteios e presença por QR Code, usado pelos docentes do campus | React · TypeScript · Laravel | [Código](https://github.com/euKauatf/tccSIGME) |
+| ☕ | **Kauaffè** | Autoatendimento de cafeteria: pedido pela mesa, painel do administrador e estoque em tempo real | React · TypeScript · Firebase | [Site](https://kauaffe.vercel.app) · [Código](https://github.com/euKauatf/Kauaffe) |
+| 🤖 | **PlanejaAI** | Planejador financeiro: a IA avalia se a sua meta cabe no orçamento e monta um plano de ação | React · TypeScript · Gemini | [Site](https://planejaai-kauatf.vercel.app) · [Código](https://github.com/euKauatf/PlanejaAI) |
 
-Aberto a projetos freelance: sites e sistemas para pequenos negócios.
+---
+
+<p align="center">
+  Tem um projeto em mente? Me chama no <a href="https://www.linkedin.com/in/eukauatf">LinkedIn</a>.
+</p>
