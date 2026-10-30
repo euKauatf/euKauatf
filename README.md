@@ -1,16 +1,24 @@
-## Hi there 👋
+## Oi, eu sou o Kauã 👋
 
-<!--
-**euKauatf/euKauatf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software na UGB (Volta Redonda, RJ) e estagiário de desenvolvimento com C# e .NET.
+Comecei pelo front-end com React e hoje trabalho dos dois lados.
 
-Here are some ideas to get you started:
+**Agora:** estagiando com ASP.NET e Entity Framework Core, e estudando arquitetura de APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+**Back-end:** C# · .NET · ASP.NET Core · Entity Framework Core · SQL
+**Front-end:** React · TypeScript · JavaScript · Tailwind CSS
+**Ferramentas:** Git · Vite · Firebase
+
+### Projetos em destaque
+| Projeto | O que é | Stack |
+|---|---|---|
+| [Otaviano Transportes](https://github.com/Fhelps32/Otaviano-Transportes) | Site de cliente real, com cotação e rastreio | React, TS |
+| [SIGME](https://github.com/euKauatf/tccSIGME) | TCC: gestão de eventos com QR Code | React, TS, PHP |
+| [Kauaffè](https://github.com/euKauatf/Kauaffe) | Autoatendimento para cafeteria | React, TS, Firebase |
+| [PlanejaAI](https://github.com/euKauatf/PlanejaAI) | Planejador financeiro com IA | React, TS, Gemini |
+
+### Contato
+[Portfólio](https://kauaportfs.vercel.app) · [LinkedIn](https://www.linkedin.com/in/eukauatf)
+
+Aberto a projetos freelance: sites e sistemas para pequenos negócios.
