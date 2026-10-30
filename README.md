@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Kauã </h1>
+<h1 align="center">Olá! eu sou o Kauã </h1>
 
 <p align="center">
   <b>Dev full stack em formação</b> · C# e .NET no back-end, React e TypeScript no front-end
@@ -13,7 +13,7 @@
 
 ### Sobre mim
 
-Estudo Engenharia de Software na UGB, em Volta Redonda (RJ), e estagio no time de desenvolvimento da universidade. Comecei pelo front-end no técnico do IFRJ e hoje trabalho dos dois lados: APIs em C# no back e interfaces em React no front.
+Estudo Engenharia de Software na UGB, em Volta Redonda (RJ), após ter que trancar meu curso de Ciência da Computação na UFF, em Niterói, e estagio no time de desenvolvimento da universidade. Comecei pelo front-end no técnico do IFRJ e hoje trabalho dos dois lados: APIs em C# no back e interfaces em React no front.
 
 - Estagiando na UGB com **C#, ASP.NET Core e Entity Framework Core**, e cuidando da acessibilidade dos temas do ambiente virtual (Moodle)
 - Estudando arquitetura de APIs REST
@@ -32,7 +32,7 @@ Estudo Engenharia de Software na UGB, em Volta Redonda (RJ), e estagio no time d
 | | Projeto | O que é | Stack | Links |
 |:---:|---|---|---|---|
 | 🚚 | **Otaviano Transportes** | Site de uma transportadora (cliente real): pedidos de cotação por e-mail e rastreio de cargas | React · TypeScript | [Site](https://otaviano-transportes.onrender.com) · [Código](https://github.com/Fhelps32/Otaviano-Transportes) |
-| 🎟️ | **SIGME** | TCC do IFRJ, feito em trio: inscrição em eventos, sorteios e presença por QR Code, usado pelos docentes do campus | React · TypeScript · Laravel | [Código](https://github.com/euKauatf/tccSIGME) |
+| 🎟️ | **SIGME** | TCC do IFRJ, feito em trio: inscrição em eventos, sorteios e presença por QR Code, usado pelos docentes do campus | React · TypeScript | [Código](https://github.com/euKauatf/tccSIGME) |
 | ☕ | **Kauaffè** | Autoatendimento de cafeteria: pedido pela mesa, painel do administrador e estoque em tempo real | React · TypeScript · Firebase | [Site](https://kauaffe.vercel.app) · [Código](https://github.com/euKauatf/Kauaffe) |
 | 🤖 | **PlanejaAI** | Planejador financeiro: a IA avalia se a sua meta cabe no orçamento e monta um plano de ação | React · TypeScript · Gemini | [Site](https://planejaai-kauatf.vercel.app) · [Código](https://github.com/euKauatf/PlanejaAI) |
 
